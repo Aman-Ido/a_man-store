@@ -1,0 +1,17 @@
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+.heading {
+	color: red;
+	text-decoration: underline;
+}
+
+.box {
+	border: 1px solid lime;
+}
+
+.underline {
+	text-decoration: underline;
+}
